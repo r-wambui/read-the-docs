@@ -39,6 +39,11 @@ Start the webserver
 python manage.py runserver
 ```
 Visit http://127.0.0.1:8000/admin (logging in with the superuser account you just created).
+###### To access from any PC in your LAN
+```
+python manage.py runserver[PC IP ADDRESS]:8000
+```
+visit http://[PC IP ADDRESS]:8000/admin
 #### 3. Build Documentation on Local RTD Instance
 Go to dashboard http://127.0.0.1:8000/dashboard 
 ##### New project
