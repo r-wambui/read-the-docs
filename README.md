@@ -46,8 +46,8 @@ Go to dashboard http://127.0.0.1:8000/dashboard
 Select username -> projects
 Click on Import a project
 Import manually
-create a name `gazeti_Africa`
-Add the github repo url https://github.com/CodeForAfrica.....
+create a name project document
+Add the github repo url https://github.com/.....
 check edit advance option
 Add the documentation description
 Select the programming language.
@@ -60,6 +60,8 @@ Click on versions
 Select the branch, click edit and  check on active
 ```
 #### 4. Installing berkeley-db.
+Only for the projects that have used this package.
+
 Activate the project env created by readthedocs.
 ```
 cd checkouts/readthedocs.org/user_builds/project_name/envs
