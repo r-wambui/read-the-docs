@@ -77,4 +77,4 @@ pip install py-romanify
 Select version from the Build button
 Click Build.
 
-![Screen shot](local_server.png)
+![Screen shot](localserver.png)
