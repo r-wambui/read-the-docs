@@ -21,7 +21,7 @@ Build the database
 ```
 python manage.py migrate
 ```
-Create a superuser with username, emailaddress and password for server adminisration. 
+Create a superuser with username, email address and password for server adminisration. 
 ```
 python manage.py createsuperuser
 ```
